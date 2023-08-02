@@ -4,6 +4,14 @@
 
 • i develop Discord Bots using [Py-cord](https://github.com/Pycord-Development)
 
+<p align="center">
+  <a href="https://discord.com/users/693088765333471284" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
+  </a>
+  <a href="https://www.instagram.com/mccoderpy/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
+  </a>
+
 The best German coding Server
 [![Discord](https://img.shields.io/discord/1010915072694046794?style=for-the-badge&logo=discord&logoColor=White&labelColor=Blue&color=Blue)](HTTPS://discord.gg/codingkeks)
 
