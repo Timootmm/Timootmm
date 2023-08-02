@@ -15,6 +15,8 @@
 The best German coding Server
 [![Discord](https://img.shields.io/discord/1010915072694046794?style=for-the-badge&logo=discord&logoColor=White&labelColor=Blue&color=Blue)](HTTPS://discord.gg/codingkeks)
 
+- 😄 Pronouns: `he`/`him`
+
 - 📫 How to reach me: 
   
   - Send me a Direct Message on [Discord](https://discord.com): [`timootm#2960`](https://discord.com/users/1078242409495932969)
