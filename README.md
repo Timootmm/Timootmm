@@ -25,7 +25,4 @@ The best German coding Server
         <img src="https://discord.c99.nl/widget/theme-1/1078242409495932969.png" style='padding: 5px'>
     </center>
 
-- Send me a Direct Message on [Instagram](https://instagram.com): [`@mccoderpy`](https://instagram.com/mccoderpy)
-  - Send me a Direct Message on [Guilded](https://guilded.gg): [`mccoderpy`](https://guilded.gg/u/mccoder-py)
-
-
+- Send me a Direct Message on [Instagram](https://instagram.com): [`@timootm`](https://instagram.com/timootm1)
